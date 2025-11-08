@@ -21,7 +21,8 @@ Working on modern React and Next.js projects with a strong focus on:
 - Design consistency  
 - Enhanced user experience  
 
-Most of my professional contributions are in private repositories, but I also share public demos, UI experiments, and personal projects here.  
+Most of my professional contributions are in private repositories, but I also share public demos, UI experiments, and personal projects here.
+
 ---
 
 ### 📫 Contact  
