@@ -10,9 +10,9 @@ I'm a Front-End Engineer with 3+ years of experience building production-grade, 
 
 - ⚛️ **Frontend:** React.js, Next.js
 - 🧮 **Languages:** JavaScript (ES6+), TypeScript
-- 🎨 **Styling:** Tailwind CSS, Material UI (MUI), Responsive & Pixel-Perfect Design
+- 🎨 **Styling:** Tailwind CSS, Material UI (MUI), Shadcn, Responsive & Pixel-Perfect Design
 - 🔌 **State & Data:** Zustand, Context API, TanStack Query, Axios, RESTful APIs
-- 🔗 **Integrations:** Socket.io, Stripe, Persona (KYC)
+- 🔗 **Integrations:** Socket.io, Stripe, Persona (KYC), Nuitée (liteAPI)
 - 🧪 **Testing & Quality:** Vitest, Playwright, Husky (pre-commit hooks), ESLint, Prettier
 - ♿ **Accessibility:** WCAG 2.1 AA, ARIA, Keyboard Navigation
 - 🧰 **Tools:** Git, GitHub, Lovable
