@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzammil
+# 👋 Hi, I'm Muzammal Hussain
 
 💻 Front-End Engineer | React.js & Next.js
 
