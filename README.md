@@ -1,52 +1,106 @@
+
 # 👋 Hi, I'm Muzammal Hussain
 
-💻 Front-End Engineer | React.js & Next.js
+### Full-Stack Software Engineer | SaaS & Web Application Development
 
-I'm a Front-End Engineer with 3+ years of experience building production-grade, accessible web applications across fintech, real estate, and travel platforms — real-time features, multi-role access systems, and third-party payment/identity integrations. I care about shipping UI that actually holds up: testing with Vitest and Playwright, enforcing quality gates with Husky, and building to WCAG 2.1 accessibility standards — not just interfaces that look good.
+I'm a Full-Stack Software Engineer with 3+ years of professional experience building production-ready web applications, SaaS platforms, and interactive digital products.
+
+I work across the frontend and backend, turning product requirements into scalable, maintainable applications. My experience includes building responsive interfaces, developing application workflows, integrating databases and APIs, implementing authentication, and connecting third-party services.
+
+My primary technologies include React.js, Next.js, TypeScript, Node.js, and Supabase. I enjoy solving real-world problems through thoughtful engineering, clean architecture, and reliable software.
+
+🌐 **Portfolio:** [View My Portfolio](https://muzammal-portfolio-nine.vercel.app/)
 
 ---
 
 ### 🧠 Tech Stack
 
-- ⚛️ **Frontend:** React.js, Next.js
-- 🧮 **Languages:** JavaScript (ES6+), TypeScript
-- 🎨 **Styling:** Tailwind CSS, Material UI (MUI), Shadcn, Responsive & Pixel-Perfect Design
-- 🔌 **State & Data:** Zustand, Context API, TanStack Query, Axios, RESTful APIs
-- 🔗 **Integrations:** Socket.io, Stripe, Persona (KYC), Nuitée (liteAPI)
-- 🧪 **Testing & Quality:** Vitest, Playwright, Husky (pre-commit hooks), ESLint, Prettier
-- ♿ **Accessibility:** WCAG 2.1 AA, ARIA, Keyboard Navigation
-- 🧰 **Tools:** Git, GitHub, Lovable
+**Frontend Development**
+- React.js, Next.js
+- JavaScript (ES6+), TypeScript
+- Tailwind CSS, Material UI, Shadcn UI
+- Zustand, Context API, TanStack Query
+- Responsive UI & Component Architecture
+
+**Backend Development**
+- Node.js
+- RESTful API Development & Integration
+- Authentication & Authorization
+- Server-side Application Logic
+- Python
+
+**Databases & Data Management**
+- Supabase
+- PostgreSQL
+- Redis
+- Database Design & Data Modeling
+- SQL & Database Operations
+
+**API & Third-Party Integrations**
+- REST APIs, Webhooks
+- Stripe, Persona
+- Socket.io
+- External Service Integrations
+
+**Testing & Code Quality**
+- Vitest, Playwright
+- ESLint, Prettier
+- Husky & Git Hooks
+- WCAG 2.1 Accessibility
+
+**Tools & Workflow**
+- Git & GitHub
+- VS Code
+- Vite
+- npm / pnpm
 
 ---
 
-### 🚀 Projects
+### 🚀 Selected Projects
 
-| Project | Description | Link |
+| Project | Description | Website |
 |---|---|---|
-| **KeyChainN** | Vacation home exchange platform | [keychainn.com](https://www.keychainn.com/) |
-| **TripSlice** | AI-powered trip planning app | [tripslice.app](https://tripslice.app/) |
-| **Abshaar** | Web application | [app.abshaar.com](https://app.abshaar.com/) |
-| **Soleya Beauty** | Freelancing platform for makeup artists | [app.soleyabeauty.ca](https://app.soleyabeauty.ca/) |
+| KeyChainN | Vacation home exchange platform | [Visit](https://www.keychainn.com/) |
+| TripSlice | AI-powered trip planning application | [Visit](https://tripslice.app/) |
+| Abshaar | Web application | [Visit](https://app.abshaar.com/) |
+| Soleya Beauty | Freelancing platform for makeup artists | [Visit](https://app.soleyabeauty.ca/) |
 
 ---
 
-### 🏢 Currently
+### 💼 Professional Experience
 
-Working at **Tekxai**, building production applications across fintech, real estate, and travel — including real-time booking systems, multi-role dashboards, and Stripe/Persona payment and identity integrations.
+**Tekxai — Full-Stack Application Development**
 
-Also focused on:
-- Performance optimization and design consistency across React/Next.js projects
-- Leveling up on the backend — Python, FastAPI, Django
+Worked on production applications across real estate, fintech, and travel domains.
 
-Most of my professional contributions live in private repositories per company policy, so what's public here is demos, UI experiments, and personal projects — with more going up on weekends as I get the time.
+Key areas of contribution:
+- Building application foundations and frontend architecture.
+- Developing responsive interfaces and reusable components.
+- Implementing authentication and multi-role onboarding.
+- Integrating Supabase and backend services.
+- Working with REST APIs and third-party integrations.
+- Developing interactive dashboards and application workflows.
+
+Also contributed to **SBRE Connect**, a marketplace platform connecting homeowners and vendors, including its application foundation, Supabase integration, authentication, and role-based onboarding.
 
 ---
 
-### 📫 Contact
+### 🎯 Currently Exploring
 
-📧 [chmzml22@gmail.com](mailto:chmzml22@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/ch-muzammil/)
+- Backend architecture and scalable application design.
+- Advanced Node.js and Python development.
+- Database optimization and application performance.
+- Building and shipping complete full-stack products.
 
 ---
 
-> "Clean code and thoughtful UI — that's what makes a great web experience." ✨
+### 📫 Let's Connect
+
+- **Portfolio:** [View My Portfolio](https://muzammal-portfolio-nine.vercel.app/)
+- **Email:** [chmzml22@gmail.com](mailto:chmzml22@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ch-muzammil/)
+- **GitHub:** [Ch-Muzammil](https://github.com/Ch-Muzammil)
+
+---
+
+> Building useful products with clean code, thoughtful architecture, and a focus on real-world problems. 🚀
